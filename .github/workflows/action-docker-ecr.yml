@@ -1,7 +1,5 @@
 name: Dockerizing to Amazon ECR
 
-name: Python action
-
 on:
   push:
     branches: [ main ]
